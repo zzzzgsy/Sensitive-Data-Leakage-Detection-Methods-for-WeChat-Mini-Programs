@@ -56,7 +56,7 @@
 1. 设备准备操作
 
    - 使用抓包工具如mitmproxy，需要电脑配置手动代理如8080。
-   - 在链接（链接：https://pan.baidu.com/s/1gXsLrqnFZT1jeAN9eOyKMA  提取码：7mha）中下载stanford-corenlp-4.1.2工具包.或者解压。
+   - 在链接（链接：https://pan.baidu.com/s/1gXsLrqnFZT1jeAN9eOyKMA  提取码：7mha）中下载stanford-corenlp-4.1.2工具包.然后解压。
 
 2. 交互策略模块
    - 调用大模型API需要修改模型、密钥key
