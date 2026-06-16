@@ -1,0 +1,11 @@
+{
+  "enable": true,
+  "description": "受害者(账号B)的敏感信息，用于越权测试",
+  "data": {
+    "user_id": ["14606822198211840"], 
+    "phone": [""],
+    "userName": ["",""],
+    "user_name": [""],
+    "cardNo":[""]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "OCR_CLICK_BUDGET": 20,
+  "OCR_CLICK_MIN_DIST": 60,
+
+    "OCR_QUOTA_STRONG": 2,
+    "OCR_QUOTA_TAB": 5,
+    "OCR_QUOTA_WEAK": 10,
+
+  "OCR_STRONG_KEYWORDS": ["登录","认证", "提交", "注册", "我的", "个人", "就诊人", "个人信息", "我的信息", "个人中心","同意", "允许", "授权", "登录", "确认", "提交", "支付", "充值", "开启定位", "授权", "订单", "记录", "认证" ],
+  "OCR_TAB_KEYWORDS": ["首页", "发现", "设置", "主页", "服务", "办事", "消息", "导航", "院区","首页", "消息", "发现", "我的", "钱包"],
+  "OCR_WEAK_KEYWORDS": [ "挂号", "问诊","推荐医生","医生","评价","报告", "订单","缴费", "预约","支付",  "搜索","查询","更多", "详情", "客服", "取消"],
+
+  "SCORE": {
+    "BOTTOM_BONUS": 2.0,
+    "STRONG_BONUS": 3.0,
+    "TAB_BONUS": 2.0,
+    "WEAK_PENALTY": 1.5,
+    "SMALL_BOX_PENALTY": -0.8,
+    "SMALL_BOX_AREA_RATIO": 0.002,
+    "BOTTOM_Y_RATIO": 0.88
+  }
+}
